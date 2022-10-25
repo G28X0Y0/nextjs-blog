@@ -21,7 +21,8 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
+Image {
     max-width: 100%;
     display: block;
+    align-content: center;
 }
